@@ -7,7 +7,7 @@ tags:
   - PowerShell
   - Twitter
   - Blog
-date: 2018-07-12T12:34:56-05:00
+date: "2018-07-12"
 ---
 <head>
 <meta name="twitter:card" content="summary_large_image">

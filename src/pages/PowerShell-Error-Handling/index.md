@@ -10,7 +10,8 @@ tags:
   - Error_Handling  
   - Programming
   - Education 
-date: 2018-10-23T18:24:16-05:00
+date: "2018-10-03"
+featuredImage: './space.jpg'
 ---
 
 # PowerShell - Error Handling

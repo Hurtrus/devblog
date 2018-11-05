@@ -10,7 +10,7 @@ tags:
   - Advanced_Functions  
   - Programming
   - Education
-date: 2018-10-23T17:45:01-05:00
+date: "2018-10-23"
 ---
 
 # PowerShell Advanced Functions - Adding WhatIf and Confirm

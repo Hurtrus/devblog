@@ -8,7 +8,7 @@ tags:
   - Links
   - Notes
   - Free_eBooks 
-date: 2018-10-24T10:05:01-05:00
+date: "2018-10-24"
 ---
 
 # Free eBooks:

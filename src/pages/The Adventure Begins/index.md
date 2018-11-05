@@ -6,7 +6,7 @@ categories:
 tags:
   - PowerShell
   - Blog
-date: 2018-07-10T01:15:01-05:00
+date: "2018-07-10"
 ---
 
 <head>

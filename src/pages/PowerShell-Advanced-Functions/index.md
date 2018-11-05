@@ -10,7 +10,7 @@ tags:
   - Advanced_Functions  
   - Programming
   - Education
-date: 2018-10-23T18:15:01-05:00
+date: "2018-10-13"
 ---
 
 # Advanced Functions

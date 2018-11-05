@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'Hurst Systems', // Required
+  author: 'Scott Hurst', // Required
+  description: 'A blog about PowerShell, technology, video creation, learning code, and other things that I have found interesting.',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
-  postsPerPage: 5, // Required
+  postsPerPage: 10, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: 'https://hurst.systems',
+    github: 'https://github.com/hurtrus',
+    twitter: 'https://twitter.com/the_scott_hurst',
+    linkedin: 'https://www.linkedin.com/in/brandonhurst/',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'https://hurstdevblog.netlify.com/',
 };

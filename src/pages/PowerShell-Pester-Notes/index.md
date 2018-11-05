@@ -9,6 +9,7 @@ tags:
   - Pester 
   - Code_Testing 
 date: "2018-09-23"
+featuredImage: './powershellLogosmaller.png'
 ---
 
 # Pester

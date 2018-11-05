@@ -9,6 +9,7 @@ tags:
   - Notes
   - Free_eBooks 
 date: "2018-10-04"
+featuredImage: './powershellLogosmaller.png'
 ---
 
 Notes about various things that I wanted to find again later, or a few things that would be useful to others. From "Free eBooks" to links about HashTables and Arrays, there will not be any rhyme or reason to this post. Enjoy.

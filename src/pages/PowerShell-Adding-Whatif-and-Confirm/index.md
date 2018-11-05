@@ -11,6 +11,7 @@ tags:
   - Programming
   - Education
 date: "2018-10-23"
+featuredImage: './powershellLogosmaller.png'
 ---
 
 So I planned to write a blog post about how to add WhatIf and Confirm to your PowerShell code and began to do research on the topic. I found that a bunch of awesome blogs that already had covered this topic, so I grabbed some information about each and threw it into this post. I will clean this up and make it more readable at a later time, just wanted to get this into my site so that I could find it and use it when needed.

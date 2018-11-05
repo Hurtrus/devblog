@@ -11,6 +11,7 @@ tags:
   - Programming
   - Education
 date: "2018-10-13"
+featuredImage: './powershellLogosmaller.png'
 ---
 
 # Advanced Functions

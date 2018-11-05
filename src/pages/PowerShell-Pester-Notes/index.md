@@ -39,31 +39,31 @@ cd C:\temp\my_PesterTests
 Invoke-Pester 
 ```
 
-- [Pester](https://github.com/pester/Pester){:target="_blank"}
-- [Introduction to Testing Your PowerShell Code with Pester](https://www.red-gate.com/simple-talk/sysadmin/powershell/introduction-to-testing-your-powershell-code-with-pester/){:target="_blank"}
-- [Unit Testing PowerShell Code with Pester](https://blogs.technet.microsoft.com/heyscriptingguy/2015/12/16/unit-testing-powershell-code-with-pester/){:target="_blank"}
-- [Example using Ping](https://blogs.msdn.microsoft.com/mvpawardprogram/2017/05/30/testing-powershell-with-pester/){:target="_blank"}
-- [More Examples and Explinations](https://www.robinosborne.co.uk/2016/06/27/unit-testing-powershell-with-pester/){:target="_blank"}
-- [Example: Automate Infrastructure Testing with Pester](https://www.cardinalsolutions.com/blog/2018/02/automate_infrastructure_testing_with_pester){:target="_blank"}
-- [Another good Example](http://powershelldistrict.com/pester-test-part3-advanced-concepts/){:target="_blank"}
+- [Pester](https://github.com/pester/Pester)
+- [Introduction to Testing Your PowerShell Code with Pester](https://www.red-gate.com/simple-talk/sysadmin/powershell/introduction-to-testing-your-powershell-code-with-pester/)
+- [Unit Testing PowerShell Code with Pester](https://blogs.technet.microsoft.com/heyscriptingguy/2015/12/16/unit-testing-powershell-code-with-pester/)
+- [Example using Ping](https://blogs.msdn.microsoft.com/mvpawardprogram/2017/05/30/testing-powershell-with-pester/)
+- [More Examples and Explinations](https://www.robinosborne.co.uk/2016/06/27/unit-testing-powershell-with-pester/)
+- [Example: Automate Infrastructure Testing with Pester](https://www.cardinalsolutions.com/blog/2018/02/automate_infrastructure_testing_with_pester)
+- [Another good Example](http://powershelldistrict.com/pester-test-part3-advanced-concepts/)
 
 Code Coverage refers to the percentage of lines of code that are tested by a suite of unit tests.
-- [Code Coverage](https://github.com/pester/Pester/wiki/Code-Coverage){:target="_blank"}
+- [Code Coverage](https://github.com/pester/Pester/wiki/Code-Coverage)
 
 
 ## Advanced docs
 
-- [Testing Infrastructure - DSC & Pester](https://sysnetdevops.com/2017/06/05/testing-infrastructure-with-pester/){:target="_blank"}
-- [Release Pipeline WhitePaper](https://docs.microsoft.com/en-us/powershell/dsc/whitepapers#the-release-pipeline-model){:target="_blank"}
-- [building-a-simple-release-pipeline-in-powershell-using-psake-pester-and-psdeploy](https://devblackops.io/building-a-simple-release-pipeline-in-powershell-using-psake-pester-and-psdeploy/){:target="_blank"}
-- [CI/CD pipeline for a new module](https://kevinmarquette.github.io/2017-01-21-powershell-module-continious-delivery-pipeline/?utm_source=blog&utm_medium=blog&utm_content=titlelink){:target="_blank"}
+- [Testing Infrastructure - DSC & Pester](https://sysnetdevops.com/2017/06/05/testing-infrastructure-with-pester/)
+- [Release Pipeline WhitePaper](https://docs.microsoft.com/en-us/powershell/dsc/whitepapers#the-release-pipeline-model)
+- [building-a-simple-release-pipeline-in-powershell-using-psake-pester-and-psdeploy](https://devblackops.io/building-a-simple-release-pipeline-in-powershell-using-psake-pester-and-psdeploy/)
+- [CI/CD pipeline for a new module](https://kevinmarquette.github.io/2017-01-21-powershell-module-continious-delivery-pipeline/?utm_source=blog&utm_medium=blog&utm_content=titlelink)
 
 ## Pester -TestCases
 
-- [Of course AB has me covered!](https://mcpmag.com/articles/2017/03/23/powershell-test-case-code-with-pester.aspx){:target="_blank"}
-- [More TestCases](https://sqldbawithabeard.com/2017/11/28/2-ways-to-loop-through-collections-in-pester/){:target="_blank"}
+- [Of course AB has me covered!](https://mcpmag.com/articles/2017/03/23/powershell-test-case-code-with-pester.aspx)
+- [More TestCases](https://sqldbawithabeard.com/2017/11/28/2-ways-to-loop-through-collections-in-pester/)
 
 ## Pester Tags
 
-- [Tags in Pester for Targeted Testing](https://blog.techsnips.io/how-to-use-tags-in-pester-for-targeted-testing/){:target="_blank"}
+- [Tags in Pester for Targeted Testing](https://blog.techsnips.io/how-to-use-tags-in-pester-for-targeted-testing/)
 

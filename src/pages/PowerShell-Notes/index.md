@@ -8,34 +8,38 @@ tags:
   - Links
   - Notes
   - Free_eBooks 
-date: "2018-10-24"
+date: "2018-10-04"
 ---
+
+Notes about various things that I wanted to find again later, or a few things that would be useful to others. From "Free eBooks" to links about HashTables and Arrays, there will not be any rhyme or reason to this post. Enjoy.
+
+<!-- end -->
 
 # Free eBooks:
 
-[Historical Trend Reports in Powershell](https://legacy.gitbook.com/book/devops-collective-inc/ditch-excel-making-historical-trend-reports-in-po/details){:target="_blank"}
+[Historical Trend Reports in Powershell](https://legacy.gitbook.com/book/devops-collective-inc/ditch-excel-making-historical-trend-reports-in-po/details)
 
-[Where and Foreach Methods](https://freecontent.manning.com/powershell-v4-where-and-foreach-methods/?utm_content=article_powershellv4whereandforeachmethods_oct2115){:target="_blank"}
+[Where and Foreach Methods](https://freecontent.manning.com/powershell-v4-where-and-foreach-methods/?utm_content=article_powershellv4whereandforeachmethods_oct2115)
 
-[PowerShell Advanced Functions](http://mikefrobbins.com/2015/04/17/free-ebook-on-powershell-advanced-functions/){:target="_blank"}
+[PowerShell Advanced Functions](http://mikefrobbins.com/2015/04/17/free-ebook-on-powershell-advanced-functions/)
 
-[Kevin Marquette on PowerShell Theory](https://kevinmarquette.github.io/){:target="_blank"}
+[Kevin Marquette on PowerShell Theory](https://kevinmarquette.github.io/)
 
 ================
 
-[Automatically Store Last Output](https://vexx32.github.io/Store-Last-Output/){:target="_blank"}
+[Automatically Store Last Output](https://vexx32.github.io/Store-Last-Output/)
 
 ================
 
 # Hashtables
 
-[Everything you wanted to know about HashTables](https://kevinmarquette.github.io/2016-11-06-powershell-hashtable-everything-you-wanted-to-know-about/?utm_source=blog&utm_medium=blog&utm_content=popref){:target="_blank"}
+[Everything you wanted to know about HashTables](https://kevinmarquette.github.io/2016-11-06-powershell-hashtable-everything-you-wanted-to-know-about/?utm_source=blog&utm_medium=blog&utm_content=popref)
 
 ================
 
 # Arrays
 
-[Everything you wanted to know about arrays](https://kevinmarquette.github.io/2018-10-15-Powershell-arrays-Everything-you-wanted-to-know/?utm_source=blog&utm_medium=blog&utm_content=titlelink){:target="_blank"}
+[Everything you wanted to know about arrays](https://kevinmarquette.github.io/2018-10-15-Powershell-arrays-Everything-you-wanted-to-know/?utm_source=blog&utm_medium=blog&utm_content=titlelink)
 
 ```powershell
 ##############################################################
@@ -67,13 +71,13 @@ $Collection.Add($Random.Next(0,1000)) | Out-Null
 
 More examples of System.Collections.ArrayList : 
 
-[Write PowerShell for Speed](https://4sysops.com/archives/how-to-write-powershell-for-speed/){:target="_blank"}
+[Write PowerShell for Speed](https://4sysops.com/archives/how-to-write-powershell-for-speed/)
 
-[Userful .NET Classes for Powershell](https://4sysops.com/wiki/useful-net-classes-for-powershell/){:target="_blank"}
+[Userful .NET Classes for Powershell](https://4sysops.com/wiki/useful-net-classes-for-powershell/)
 
 ================
 
-[Everything you ever wanted to know about the Switch statement](https://kevinmarquette.github.io/2018-01-12-Powershell-switch-statement/?utm_source=blog&utm_medium=blog&utm_content=titlelink){:target="_blank"}
+[Everything you ever wanted to know about the Switch statement](https://kevinmarquette.github.io/2018-01-12-Powershell-switch-statement/?utm_source=blog&utm_medium=blog&utm_content=titlelink)
 
 # RegEx a Phonenumber
 
@@ -99,6 +103,6 @@ $b.Substring($b.Length -4)
 
 ```Markdown
 
-[Title](URL){:target="_blank"}
+[Title](URL)
 
 ```

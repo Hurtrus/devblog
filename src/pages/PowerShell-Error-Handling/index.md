@@ -57,10 +57,10 @@ Catch
 
 `ErrorAction` is a different beast than `$ErrorActionPreference`
 
-$ErrorActionPreference is a Preference Variable [About Preference Variables](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_preference_variables?view=powershell-6){:target="_blank"}
+$ErrorActionPreference is a Preference Variable [About Preference Variables](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_preference_variables?view=powershell-6)
 This preference variable enable you to customize the behavior and how it affects the PowerShell operating environment and all commands run in the environment.
 
-ErrorAction is a Common Parameter [About CommonParameters](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_commonparameters?view=powershell-6){:target="_blank"}
+ErrorAction is a Common Parameter [About CommonParameters](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_commonparameters?view=powershell-6)
 This _common parameter_ affects the behavior of the specific cmdlet it is used with, and the environment itself is left unchanged. It is used to override the preference for a single command.
 
 ErrorAction has the same valid values as the $ErrorActionPreference variable.
@@ -114,6 +114,6 @@ Hey man... what was that _finally_ thing in that example above?
 
 ## Additional Reading Resources:
 
-[Try-Catch-Finally in PowerShell](https://www.vexasoft.com/blogs/powershell/7255220-powershell-tutorial-try-catch-finally-and-error-handling-in-powershell){:target="_blank"}
+[Try-Catch-Finally in PowerShell](https://www.vexasoft.com/blogs/powershell/7255220-powershell-tutorial-try-catch-finally-and-error-handling-in-powershell)
 
-[A Look at Try/Catch in PowerShell](https://learn-powershell.net/2015/04/04/a-look-at-trycatch-in-powershell/){:target="_blank"}
+[A Look at Try/Catch in PowerShell](https://learn-powershell.net/2015/04/04/a-look-at-trycatch-in-powershell/)

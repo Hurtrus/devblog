@@ -13,11 +13,15 @@ tags:
 date: "2018-10-23"
 ---
 
+So I planned to write a blog post about how to add WhatIf and Confirm to your PowerShell code and began to do research on the topic. I found that a bunch of awesome blogs that already had covered this topic, so I grabbed some information about each and threw it into this post. I will clean this up and make it more readable at a later time, just wanted to get this into my site so that I could find it and use it when needed.
+
+<!-- end -->
+
 # PowerShell Advanced Functions - Adding WhatIf and Confirm
 
 Source:
 
-[THE LONELY ADMINISTRATOR Blog](https://jdhitsolutions.com/blog/powershell/4319/powershell-blogging-week-supporting-whatif-and-confirm/){:target="_blank"} - jdhitsolutions.com
+[THE LONELY ADMINISTRATOR Blog](https://jdhitsolutions.com/blog/powershell/4319/powershell-blogging-week-supporting-whatif-and-confirm/) - jdhitsolutions.com
 
 ##### I take no credit, I am just taking notes. I don’t figure anyone will actually find this post until I have learned enough to re-write it using my own examples. No one has called me out on this, I just want credit to go where it is due.
 
@@ -126,4 +130,4 @@ Write-Verbose "Ending $($MyInvocation.Mycommand)"
 
 Source:
 
-[THE LONELY ADMINISTRATOR Blog](https://jdhitsolutions.com/blog/powershell/4319/powershell-blogging-week-supporting-whatif-and-confirm/){:target="_blank"} - jdhitsolutions.com
+[THE LONELY ADMINISTRATOR Blog](https://jdhitsolutions.com/blog/powershell/4319/powershell-blogging-week-supporting-whatif-and-confirm/) - jdhitsolutions.com

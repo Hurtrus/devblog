@@ -7,7 +7,7 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 10, // Required
   social: {
-    website: 'https://hurst.systems',
+    website: 'https://hurst.systems/about/',
     github: 'https://github.com/hurtrus',
     twitter: 'https://twitter.com/the_scott_hurst',
     linkedin: 'https://www.linkedin.com/in/brandonhurst/',

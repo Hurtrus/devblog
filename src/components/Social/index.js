@@ -82,7 +82,7 @@ function Social({ website, twitter, github, linkedin }) {
         </SocialLink>
       )}
       {aboutme && (
-       <SocialLink href={AboutMe} target="_blank" rel="noopener">
+       <SocialLink href={aboutme} target="_blank" rel="noopener">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"

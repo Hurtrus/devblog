@@ -11,6 +11,7 @@ module.exports = {
     github: 'https://github.com/hurtrus',
     twitter: 'https://twitter.com/the_scott_hurst',
     linkedin: 'https://www.linkedin.com/in/brandonhurst/',
+    aboutme: '/about.md/',
   },
 //  pathPrefix: '/devblog',
   siteUrl: 'https://www.techtronit.com',

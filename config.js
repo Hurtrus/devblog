@@ -12,6 +12,6 @@ module.exports = {
     twitter: 'https://twitter.com/the_scott_hurst',
     linkedin: 'https://www.linkedin.com/in/brandonhurst/',
   },
-  pathPrefix: '/devblog',
-  siteUrl: 'https://hurstdevblog.netlify.com/',
+//  pathPrefix: '/devblog',
+  siteUrl: 'https://www.techtronit.com',
 };

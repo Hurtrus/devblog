@@ -1,15 +1,15 @@
 ---
 title: PowerShell Notes
+description : "My Notes on PowerShell - So that I can find it again"
+author: "Scott Hurst"
 categories:
   - PowerShell
-  - Free_eBooks
 tags:
   - PowerShell
-  - Links
-  - Notes
-  - Free_eBooks 
-date: "2018-10-04"
+date: 2018-10-04T11:29:23-05:00
 featuredImage: './powershellLogosmaller.png'
+cover : "/img/1.jpg"
+draft: false
 ---
 
 Notes about various things that I wanted to find again later, or a few things that would be useful to others. From "Free eBooks" to links about HashTables and Arrays, there will not be any rhyme or reason to this post. Enjoy.

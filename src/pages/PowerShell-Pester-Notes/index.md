@@ -2,19 +2,19 @@
 title: PowerShell - Pester Notes
 categories:
   - PowerShell
-  - Pester
-  - Code_Testing 
+ 
 tags:
   - PowerShell
-  - Pester 
-  - Code_Testing 
+
 date: "2018-09-23"
 featuredImage: './powershellLogosmaller.png'
+cover : "/img/postImages/6.jpg"
+author: "Scott Hurst"
 ---
 
 # Pester
 
-### Time to learn Pester. Not so much a blog post as it is a reading/reference list.
+Time to learn Pester. Not so much a blog post as it is a reading/reference list.
 
 ## What is Pester?
 

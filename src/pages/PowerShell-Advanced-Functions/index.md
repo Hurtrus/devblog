@@ -2,16 +2,14 @@
 title: PowerShell - Advanced Functions
 categories:
   - PowerShell
-  - Advanced_Functions  
-  - Programming
-  - Education
+
 tags:
   - PowerShell
-  - Advanced_Functions  
-  - Programming
-  - Education
-date: "2018-10-13"
+
+date: "2018-08-03T10:29:23-05:00"
 featuredImage: './powershellLogosmaller.png'
+cover : "/img/postImages/pwsh.jpeg"
+author: "Scott Hurst"
 ---
 
 # Advanced Functions

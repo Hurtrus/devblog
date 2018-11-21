@@ -1,17 +1,18 @@
 ---
-title: PowerShell - Error Handling
+title: "PowerShell - Error Handling"
+weight: 1
+description : "Using Try Catch and Finally to perform error handling for PowerShell"
 categories:
   - PowerShell
-  - Error_Handling 
-  - Programming
-  - Education 
+
 tags:
   - PowerShell
-  - Error_Handling  
-  - Programming
-  - Education 
-date: "2018-10-03"
-featuredImage: './space.jpg'
+
+date: "2018-10-23T10:29:23-05:00"
+featuredImage: './powershellLogosmaller.png'
+cover : "/img/postImages/powershell_01.jpg"
+author: "Scott Hurst"
+draft: false
 ---
 
 # PowerShell - Error Handling

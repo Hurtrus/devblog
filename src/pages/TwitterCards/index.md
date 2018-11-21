@@ -1,13 +1,14 @@
 ---
 title: Add Twitter Cards to Blog Tweets
-categories:
-  - twitter
-  - blog  
+
 tags:
-  - PowerShell
   - Twitter
   - Blog
+
 date: "2018-07-12"
+cover : "/img/postImages/powershell1x.png"
+
+author: "Scott Hurst"
 ---
 <head>
 <meta name="twitter:card" content="summary_large_image">

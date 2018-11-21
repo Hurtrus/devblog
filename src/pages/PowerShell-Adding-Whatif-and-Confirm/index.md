@@ -1,18 +1,19 @@
 ---
-title: PowerShell - Adding WhatIf and Confirm
+title: "PowerShell - Adding WhatIf and Confirm"
+description : "Adding support for WhatIf and Confirm to your advanced PowerShell functions"
+date: "2018-08-23T10:29:23-05:00"
 categories:
   - PowerShell
-  - Advanced_Functions  
-  - Programming
-  - Education
+
 tags:
   - PowerShell
-  - Advanced_Functions  
-  - Programming
-  - Education
-date: "2018-10-23"
+  
 featuredImage: './powershellLogosmaller.png'
+cover : "/img/postImages/powershell-1-300x204.png"
+author: "Scott Hurst"
+draft: false
 ---
+
 
 So I planned to write a blog post about how to add WhatIf and Confirm to your PowerShell code and began to do research on the topic. I found that a bunch of awesome blogs that already had covered this topic, so I grabbed some information about each and threw it into this post. I will clean this up and make it more readable at a later time, just wanted to get this into my site so that I could find it and use it when needed.
 
@@ -24,9 +25,9 @@ Source:
 
 [THE LONELY ADMINISTRATOR Blog](https://jdhitsolutions.com/blog/powershell/4319/powershell-blogging-week-supporting-whatif-and-confirm/) - jdhitsolutions.com
 
-##### I take no credit, I am just taking notes. I don’t figure anyone will actually find this post until I have learned enough to re-write it using my own examples. No one has called me out on this, I just want credit to go where it is due.
+I take no credit, I am just taking notes. I don’t figure anyone will actually find this post until I have learned enough to re-write it using my own examples. No one has called me out on this, I just want credit to go where it is due.
 
-##### again all credit goes to Jeff Hicks and his blog post. I take NONE of the credit.
+.... again all credit goes to Jeff Hicks and his blog post. I take NONE of the credit.
 
 If SupportsShouldProcess is listed it will enable the –WhatIf and –Confirm parameters on the function if you are using PowerShell cmdlets that already support –WhatIf.
 

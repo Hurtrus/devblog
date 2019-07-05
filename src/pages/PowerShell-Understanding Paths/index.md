@@ -11,6 +11,7 @@ date: "2018-11-20"
 featuredImage: './powershellLogosmaller.png'
 cover : "/img/postImages/6.jpg"
 author: "Scott Hurst"
+
 ---
 
 # Understanding Paths in PowerShell

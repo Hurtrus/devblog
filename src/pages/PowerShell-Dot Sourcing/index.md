@@ -1,16 +1,17 @@
 ﻿---
 Title: Dot-Sourcing in PowerShell
-Date: "2018-11-20T14:53:23-05:00"
-Author: "Scott Hurst"
-cover: "/img/postImages/pwsh.jpeg"
-
 categories:
   - PowerShell
 
 tags:
   - PowerShell
   - Dot-Sourcing
-  
+
+date: "2018-11-23"
+featuredImage: './powershellLogosmaller.png'
+cover : "/img/postImages/6.jpg"
+author: "Scott Hurst"
+
 ---
 
 # Dot Sourcing in PowerShell

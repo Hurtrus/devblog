@@ -1,15 +1,16 @@
 ﻿---
-Title: Present Working Directory
-Date: "2018-11-20T14:53:23-05:00"
-Author: "Scott Hurst"
-cover: "/img/postImages/pwsh.jpeg"
+title: Present Working Directory
 categories:
   - PowerShell
-
+ 
 tags:
   - PowerShell
-  - $pwd
-  
+
+date: "2018-11-20"
+featuredImage: './powershellLogosmaller.png'
+cover : "/img/postImages/6.jpg"
+author: "Scott Hurst"
+
 ---
 
 # Understanding Present Working Directory $PWD

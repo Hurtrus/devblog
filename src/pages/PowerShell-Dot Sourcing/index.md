@@ -8,7 +8,7 @@ tags:
   - Dot-Sourcing
 
 date: "2018-11-23"
-featuredImage: './powershellLogosmaller.png'
+featuredImage: 'src/pages/PowerShell-Notes/powershellLogosmaller.png'
 cover : "/img/postImages/6.jpg"
 author: "Scott Hurst"
 
